@@ -2,12 +2,12 @@
  * @Author: WouRaoyu
  * @Date: 2021-09-03 09:27:23
  * @LastEditors: WouRaoyu
- * @LastEditTime: 2021-09-04 17:26:42
+ * @LastEditTime: 2021-09-04 17:29:30
  * @Description: file content
 -->
 <template>
   <div class="home">
-    <div id="title-name"> VGE-SWJTU小组数字孪生测试系统 </div>
+    <div id="title-name"> SWJTU-VGE小组数字孪生测试系统 </div>
     <img id="vge-logo" src="../assets/vge.png" />
     <div class="background" />
     <HelloWorld />
