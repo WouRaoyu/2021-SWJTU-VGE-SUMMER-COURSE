@@ -7,7 +7,7 @@
 -->
 <template>
   <div class="home">
-    <div id="title-name"> VGE小组数字孪生测试系统 </div>
+    <div id="title-name"> SWJTU-VGE小组数字孪生测试系统 </div>
     <img id="vge-logo" src="../assets/vge.png" />
     <div class="background" />
     <HelloWorld />
